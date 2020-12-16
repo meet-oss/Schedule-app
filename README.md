@@ -22,7 +22,7 @@ I,ve also open to pull requests
 Node_moduels folder is not in there so please create react-app and then replace code and if it doesnt work at first try 'npm install' and then start app with
 'npm start'.
 
-There is no Css in this app but if you want you can add by your self but make sure you configre all properly. 
+There is no CSS in this app but if you want you can add by your self but make sure you configre all properly. 
 
 
 It is very basic app but i hope you like it,because i tried my best to make this app.
