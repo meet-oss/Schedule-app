@@ -16,7 +16,7 @@ If you want to report a bug or submit your idea feel fre to open an issue
 
 Before you report a bug, please take your time to find if an issue hasn't been reported yet
 
-We're also open to pull requests
+I,ve also open to pull requests
 
 ## Something Missing?
 Node_moduels folder is not in there so please create react-app and then replace code and if it doesnt work at first try 'npm install' and then start app with
