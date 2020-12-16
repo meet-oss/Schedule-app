@@ -19,4 +19,11 @@ Before you report a bug, please take your time to find if an issue hasn't been r
 We're also open to pull requests
 
 ## Something Missing?
-If you still have some questions do not hesitate to ask us. Open an issue or [visit our Slack](https://mdbbetatest.slack.com)
+Node_moduels folder is not in there so please create react-app and then replace code and if it doesnt work at first try 'npm install' and then start app with
+'npm start'.
+
+
+It is very basic app but i hope you like it,because i tried my best to make this app.
+
+-THANK YOU
+
